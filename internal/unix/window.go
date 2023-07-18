@@ -1,17 +1,18 @@
 package unix
 
 import "github.com/gotk3/gotk3/gtk"
+import "fmt"
 
 type Control interface {
 	Parent() Control
 	SetParent(Control)
 	SetControl(Control)
 	Destroy()
+	Handle() any
 }
 
 type Window struct {
-	Control
-
+	c           Control
 	window      *gtk.Window
 	vbox        *gtk.Box
 	childHolder *gtk.Box
@@ -39,6 +40,14 @@ type Window struct {
 	cachedPosY   int
 	cachedWidth  int
 	cachedHeight int
+}
+
+func (w *Window) Handle() any {
+	return w.window
+}
+
+func (w *Window) SetControl(c Control) {
+	w.c = c
 }
 
 func (w *Window) whenClosing() func(win *gtk.Window) bool {
@@ -279,14 +288,15 @@ func (w *Window) SetBorderless(borderless bool) {
 
 // TODO save and restore expands and aligns
 func (w *Window) SetChild(child Control) {
+	fmt.Println("set child")
 	if w.child != nil {
 		w.child.SetParent(nil)
-		// uiUnixControlSetContainer(uiUnixControl(w.child), w.childHolderContainer, TRUE);
+		w.childHolder.Remove(w.child.Handle().(*gtk.Widget))
 	}
 	w.child = child
 	if w.child != nil {
-		w.child.SetControl(w)
-		// uiUnixControlSetContainer(uiUnixControl(w.child), w.childHolderContainer, FALSE);
+		w.child.SetParent(w)
+		w.childHolder.Add(child.Handle().(*gtk.Widget))
 	}
 }
 
@@ -296,11 +306,19 @@ func (w Window) Margined() bool {
 
 func (w *Window) SetMargined(margined bool) {
 	w.margined = margined
-	// uiprivSetMargined(w.childHolderContainer, w.margined);
+	setMargined(w.childHolder.Container, w.margined)
 }
 
 func (w *Window) Resizeable() bool {
 	return w.resizeable
+}
+
+func setWidgetBackgroundColor(widget *gtk.Widget, name string) {
+	provider, _ := gtk.CssProviderNew()
+	provider.LoadFromData(fmt.Sprintf(".bgcol { background-image: none; background-color: %s; }", name))
+	sc, _ := widget.GetStyleContext()
+	sc.AddProvider(provider, gtk.STYLE_PROVIDER_PRIORITY_APPLICATION)
+	sc.AddClass("bgcol")
 }
 
 func (w *Window) SetResizeable(resizeable bool) {
@@ -353,6 +371,7 @@ func NewWindow(title string, width int, height int, hasMenubar bool) *Window {
 	w.window.Connect("focus-in", w.whenGetFocus())
 	w.window.Connect("focus-out", w.whenLoseFocus())
 	w.window.Connect("configure", w.whenConfigure())
+	setWidgetBackgroundColor(&w.childHolder.Widget, "blue")
 
 	/*
 		g_signal_connect(w.widget, "delete-event", G_CALLBACK(onClosing), w);

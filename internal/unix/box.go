@@ -190,6 +190,9 @@ func newBox(orientation gtk.Orientation) *Box {
 
 	b.controls = []Control{}
 
+	setWidgetBackgroundColor(b.widget, "yellow")
+	b.box.Show()
+
 	return b
 }
 

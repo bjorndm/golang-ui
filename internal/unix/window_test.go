@@ -8,5 +8,21 @@ func TestNewWindow(t *testing.T) {
 	Init()
 	w := NewWindow("test window", 640, 480, false)
 	is.True(w != nil)
+	box := NewVerticalBox()
+	is.True(box != nil)
+
+	b := NewButton("Hello!")
+	is.True(b != nil)
+	is.Equal(b.Text(), "Hello!")
+
+	b.OnClicked(func(b *Button, d any) {
+		t.Logf("Hello clicked")
+	}, nil)
+
+	box.Append(b, false)
+	t.Logf("before setchild")
+	w.SetChild(box)
+	t.Logf("after setchild")
+
 	Main()
 }
