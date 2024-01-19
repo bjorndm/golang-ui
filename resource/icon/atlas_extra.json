@@ -1,0 +1,1701 @@
+{
+  "x": 900,
+  "y": 250,
+  "width": 50,
+  "height": 50,
+  "name": "DPAD"
+}
+{
+  "x": 900,
+  "y": 200,
+  "width": 50,
+  "height": 50,
+  "name": "DPAD_all"
+}
+{
+  "x": 900,
+  "y": 150,
+  "width": 50,
+  "height": 50,
+  "name": "DPAD_down"
+}
+{
+  "x": 900,
+  "y": 100,
+  "width": 50,
+  "height": 50,
+  "name": "DPAD_left"
+}
+{
+  "x": 900,
+  "y": 50,
+  "width": 50,
+  "height": 50,
+  "name": "DPAD_right"
+}
+{
+  "x": 900,
+  "y": 0,
+  "width": 50,
+  "height": 50,
+  "name": "DPAD_up"
+}
+{
+  "x": 550,
+  "y": 400,
+  "width": 50,
+  "height": 50,
+  "name": "car"
+}
+{
+  "x": 550,
+  "y": 350,
+  "width": 50,
+  "height": 50,
+  "name": "cloud"
+}
+{
+  "x": 550,
+  "y": 300,
+  "width": 50,
+  "height": 50,
+  "name": "cloudUpload"
+}
+{
+  "x": 550,
+  "y": 250,
+  "width": 50,
+  "height": 50,
+  "name": "coin"
+}
+{
+  "x": 550,
+  "y": 200,
+  "width": 50,
+  "height": 50,
+  "name": "controllerTilt"
+}
+{
+  "x": 550,
+  "y": 150,
+  "width": 50,
+  "height": 50,
+  "name": "controllerTilt_left"
+}
+{
+  "x": 550,
+  "y": 100,
+  "width": 50,
+  "height": 50,
+  "name": "controllerTilt_right"
+}
+{
+  "x": 550,
+  "y": 50,
+  "width": 50,
+  "height": 50,
+  "name": "cpu"
+}
+{
+  "x": 550,
+  "y": 0,
+  "width": 50,
+  "height": 50,
+  "name": "cursor"
+}
+{
+  "x": 750,
+  "y": 0,
+  "width": 50,
+  "height": 50,
+  "name": "deviceTilt"
+}
+{
+  "x": 900,
+  "y": 450,
+  "width": 50,
+  "height": 50,
+  "name": "deviceTilt_left"
+}
+{
+  "x": 900,
+  "y": 400,
+  "width": 50,
+  "height": 50,
+  "name": "deviceTilt_right"
+}
+{
+  "x": 900,
+  "y": 350,
+  "width": 50,
+  "height": 50,
+  "name": "diamond"
+}
+{
+  "x": 900,
+  "y": 300,
+  "width": 50,
+  "height": 50,
+  "name": "download"
+}
+{
+  "x": 850,
+  "y": 450,
+  "width": 50,
+  "height": 50,
+  "name": "fightFist"
+}
+{
+  "x": 850,
+  "y": 400,
+  "width": 50,
+  "height": 50,
+  "name": "fightFist_circle"
+}
+{
+  "x": 850,
+  "y": 350,
+  "width": 50,
+  "height": 50,
+  "name": "fightJ"
+}
+{
+  "x": 850,
+  "y": 300,
+  "width": 50,
+  "height": 50,
+  "name": "fightJoy_00"
+}
+{
+  "x": 850,
+  "y": 250,
+  "width": 50,
+  "height": 50,
+  "name": "fightJoy_01"
+}
+{
+  "x": 850,
+  "y": 200,
+  "width": 50,
+  "height": 50,
+  "name": "fightJoy_02"
+}
+{
+  "x": 850,
+  "y": 150,
+  "width": 50,
+  "height": 50,
+  "name": "fightJoy_03"
+}
+{
+  "x": 850,
+  "y": 100,
+  "width": 50,
+  "height": 50,
+  "name": "fightJoy_04"
+}
+{
+  "x": 850,
+  "y": 50,
+  "width": 50,
+  "height": 50,
+  "name": "fightJoy_05"
+}
+{
+  "x": 850,
+  "y": 0,
+  "width": 50,
+  "height": 50,
+  "name": "fightJoy_06"
+}
+{
+  "x": 800,
+  "y": 450,
+  "width": 50,
+  "height": 50,
+  "name": "fightJoy_07"
+}
+{
+  "x": 800,
+  "y": 400,
+  "width": 50,
+  "height": 50,
+  "name": "fightJoy_08"
+}
+{
+  "x": 800,
+  "y": 350,
+  "width": 50,
+  "height": 50,
+  "name": "fightJoy_09"
+}
+{
+  "x": 800,
+  "y": 300,
+  "width": 50,
+  "height": 50,
+  "name": "fightJoy_10"
+}
+{
+  "x": 800,
+  "y": 250,
+  "width": 50,
+  "height": 50,
+  "name": "fightJoy_11"
+}
+{
+  "x": 800,
+  "y": 200,
+  "width": 50,
+  "height": 50,
+  "name": "fightJoy_12"
+}
+{
+  "x": 800,
+  "y": 150,
+  "width": 50,
+  "height": 50,
+  "name": "fightJoy_13"
+}
+{
+  "x": 800,
+  "y": 100,
+  "width": 50,
+  "height": 50,
+  "name": "fightJoy_14"
+}
+{
+  "x": 800,
+  "y": 50,
+  "width": 50,
+  "height": 50,
+  "name": "fightJoy_15"
+}
+{
+  "x": 800,
+  "y": 0,
+  "width": 50,
+  "height": 50,
+  "name": "fightJoy_16"
+}
+{
+  "x": 750,
+  "y": 450,
+  "width": 50,
+  "height": 50,
+  "name": "fightJoy_17"
+}
+{
+  "x": 750,
+  "y": 400,
+  "width": 50,
+  "height": 50,
+  "name": "fightJoy_18"
+}
+{
+  "x": 750,
+  "y": 350,
+  "width": 50,
+  "height": 50,
+  "name": "fightJoy_19"
+}
+{
+  "x": 750,
+  "y": 300,
+  "width": 50,
+  "height": 50,
+  "name": "fightJoy_20"
+}
+{
+  "x": 750,
+  "y": 250,
+  "width": 50,
+  "height": 50,
+  "name": "fightJoy_21"
+}
+{
+  "x": 750,
+  "y": 200,
+  "width": 50,
+  "height": 50,
+  "name": "fightJoy_22"
+}
+{
+  "x": 750,
+  "y": 150,
+  "width": 50,
+  "height": 50,
+  "name": "fightJoy_23"
+}
+{
+  "x": 750,
+  "y": 100,
+  "width": 50,
+  "height": 50,
+  "name": "fightJoy_24"
+}
+{
+  "x": 750,
+  "y": 50,
+  "width": 50,
+  "height": 50,
+  "name": "fightJoy_25"
+}
+{
+  "x": 950,
+  "y": 0,
+  "width": 50,
+  "height": 50,
+  "name": "fightJoy_26"
+}
+{
+  "x": 700,
+  "y": 450,
+  "width": 50,
+  "height": 50,
+  "name": "fightJoy_27"
+}
+{
+  "x": 700,
+  "y": 400,
+  "width": 50,
+  "height": 50,
+  "name": "fightJoy_28"
+}
+{
+  "x": 700,
+  "y": 350,
+  "width": 50,
+  "height": 50,
+  "name": "fightJoy_29"
+}
+{
+  "x": 700,
+  "y": 300,
+  "width": 50,
+  "height": 50,
+  "name": "fightJoy_30"
+}
+{
+  "x": 700,
+  "y": 250,
+  "width": 50,
+  "height": 50,
+  "name": "fightJoy_31"
+}
+{
+  "x": 700,
+  "y": 200,
+  "width": 50,
+  "height": 50,
+  "name": "figurine"
+}
+{
+  "x": 700,
+  "y": 150,
+  "width": 50,
+  "height": 50,
+  "name": "fistPlus"
+}
+{
+  "x": 700,
+  "y": 100,
+  "width": 50,
+  "height": 50,
+  "name": "flag"
+}
+{
+  "x": 700,
+  "y": 50,
+  "width": 50,
+  "height": 50,
+  "name": "joystick"
+}
+{
+  "x": 700,
+  "y": 0,
+  "width": 50,
+  "height": 50,
+  "name": "joystickL_side"
+}
+{
+  "x": 650,
+  "y": 450,
+  "width": 50,
+  "height": 50,
+  "name": "joystickL_top"
+}
+{
+  "x": 650,
+  "y": 400,
+  "width": 50,
+  "height": 50,
+  "name": "joystickLeft"
+}
+{
+  "x": 650,
+  "y": 350,
+  "width": 50,
+  "height": 50,
+  "name": "joystickR_side"
+}
+{
+  "x": 650,
+  "y": 300,
+  "width": 50,
+  "height": 50,
+  "name": "joystickR_top"
+}
+{
+  "x": 650,
+  "y": 250,
+  "width": 50,
+  "height": 50,
+  "name": "joystickRight"
+}
+{
+  "x": 650,
+  "y": 200,
+  "width": 50,
+  "height": 50,
+  "name": "key"
+}
+{
+  "x": 650,
+  "y": 150,
+  "width": 50,
+  "height": 50,
+  "name": "keyLarge"
+}
+{
+  "x": 650,
+  "y": 100,
+  "width": 50,
+  "height": 50,
+  "name": "keyLarge_3d"
+}
+{
+  "x": 650,
+  "y": 50,
+  "width": 50,
+  "height": 50,
+  "name": "keySmall"
+}
+{
+  "x": 650,
+  "y": 0,
+  "width": 50,
+  "height": 50,
+  "name": "keySmall_3d"
+}
+{
+  "x": 600,
+  "y": 450,
+  "width": 50,
+  "height": 50,
+  "name": "mouse"
+}
+{
+  "x": 600,
+  "y": 400,
+  "width": 50,
+  "height": 50,
+  "name": "mouseLeft"
+}
+{
+  "x": 600,
+  "y": 350,
+  "width": 50,
+  "height": 50,
+  "name": "mouseMiddle"
+}
+{
+  "x": 600,
+  "y": 300,
+  "width": 50,
+  "height": 50,
+  "name": "mouseRight"
+}
+{
+  "x": 600,
+  "y": 250,
+  "width": 50,
+  "height": 50,
+  "name": "pointer"
+}
+{
+  "x": 600,
+  "y": 200,
+  "width": 50,
+  "height": 50,
+  "name": "toolBrush"
+}
+{
+  "x": 600,
+  "y": 150,
+  "width": 50,
+  "height": 50,
+  "name": "toolEraser"
+}
+{
+  "x": 600,
+  "y": 100,
+  "width": 50,
+  "height": 50,
+  "name": "toolFill"
+}
+{
+  "x": 600,
+  "y": 50,
+  "width": 50,
+  "height": 50,
+  "name": "toolPencil"
+}
+{
+  "x": 600,
+  "y": 0,
+  "width": 50,
+  "height": 50,
+  "name": "upload"
+}
+{
+  "x": 550,
+  "y": 450,
+  "width": 50,
+  "height": 50,
+  "name": "userRobot"
+}
+{
+  "x": 900,
+  "y": 250,
+  "width": 50,
+  "height": 50,
+  "name": "DPAD"
+}
+{
+  "x": 900,
+  "y": 200,
+  "width": 50,
+  "height": 50,
+  "name": "DPAD_all"
+}
+{
+  "x": 900,
+  "y": 150,
+  "width": 50,
+  "height": 50,
+  "name": "DPAD_down"
+}
+{
+  "x": 900,
+  "y": 100,
+  "width": 50,
+  "height": 50,
+  "name": "DPAD_left"
+}
+{
+  "x": 900,
+  "y": 50,
+  "width": 50,
+  "height": 50,
+  "name": "DPAD_right"
+}
+{
+  "x": 900,
+  "y": 0,
+  "width": 50,
+  "height": 50,
+  "name": "DPAD_up"
+}
+{
+  "x": 550,
+  "y": 400,
+  "width": 50,
+  "height": 50,
+  "name": "car"
+}
+{
+  "x": 550,
+  "y": 350,
+  "width": 50,
+  "height": 50,
+  "name": "cloud"
+}
+{
+  "x": 550,
+  "y": 300,
+  "width": 50,
+  "height": 50,
+  "name": "cloudUpload"
+}
+{
+  "x": 550,
+  "y": 250,
+  "width": 50,
+  "height": 50,
+  "name": "coin"
+}
+{
+  "x": 550,
+  "y": 200,
+  "width": 50,
+  "height": 50,
+  "name": "controllerTilt"
+}
+{
+  "x": 550,
+  "y": 150,
+  "width": 50,
+  "height": 50,
+  "name": "controllerTilt_left"
+}
+{
+  "x": 550,
+  "y": 100,
+  "width": 50,
+  "height": 50,
+  "name": "controllerTilt_right"
+}
+{
+  "x": 550,
+  "y": 50,
+  "width": 50,
+  "height": 50,
+  "name": "cpu"
+}
+{
+  "x": 550,
+  "y": 0,
+  "width": 50,
+  "height": 50,
+  "name": "cursor"
+}
+{
+  "x": 750,
+  "y": 0,
+  "width": 50,
+  "height": 50,
+  "name": "deviceTilt"
+}
+{
+  "x": 900,
+  "y": 450,
+  "width": 50,
+  "height": 50,
+  "name": "deviceTilt_left"
+}
+{
+  "x": 900,
+  "y": 400,
+  "width": 50,
+  "height": 50,
+  "name": "deviceTilt_right"
+}
+{
+  "x": 900,
+  "y": 350,
+  "width": 50,
+  "height": 50,
+  "name": "diamond"
+}
+{
+  "x": 900,
+  "y": 300,
+  "width": 50,
+  "height": 50,
+  "name": "download"
+}
+{
+  "x": 850,
+  "y": 450,
+  "width": 50,
+  "height": 50,
+  "name": "fightFist"
+}
+{
+  "x": 850,
+  "y": 400,
+  "width": 50,
+  "height": 50,
+  "name": "fightFist_circle"
+}
+{
+  "x": 850,
+  "y": 350,
+  "width": 50,
+  "height": 50,
+  "name": "fightJ"
+}
+{
+  "x": 850,
+  "y": 300,
+  "width": 50,
+  "height": 50,
+  "name": "fightJoy_00"
+}
+{
+  "x": 850,
+  "y": 250,
+  "width": 50,
+  "height": 50,
+  "name": "fightJoy_01"
+}
+{
+  "x": 850,
+  "y": 200,
+  "width": 50,
+  "height": 50,
+  "name": "fightJoy_02"
+}
+{
+  "x": 850,
+  "y": 150,
+  "width": 50,
+  "height": 50,
+  "name": "fightJoy_03"
+}
+{
+  "x": 850,
+  "y": 100,
+  "width": 50,
+  "height": 50,
+  "name": "fightJoy_04"
+}
+{
+  "x": 850,
+  "y": 50,
+  "width": 50,
+  "height": 50,
+  "name": "fightJoy_05"
+}
+{
+  "x": 850,
+  "y": 0,
+  "width": 50,
+  "height": 50,
+  "name": "fightJoy_06"
+}
+{
+  "x": 800,
+  "y": 450,
+  "width": 50,
+  "height": 50,
+  "name": "fightJoy_07"
+}
+{
+  "x": 800,
+  "y": 400,
+  "width": 50,
+  "height": 50,
+  "name": "fightJoy_08"
+}
+{
+  "x": 800,
+  "y": 350,
+  "width": 50,
+  "height": 50,
+  "name": "fightJoy_09"
+}
+{
+  "x": 800,
+  "y": 300,
+  "width": 50,
+  "height": 50,
+  "name": "fightJoy_10"
+}
+{
+  "x": 800,
+  "y": 250,
+  "width": 50,
+  "height": 50,
+  "name": "fightJoy_11"
+}
+{
+  "x": 800,
+  "y": 200,
+  "width": 50,
+  "height": 50,
+  "name": "fightJoy_12"
+}
+{
+  "x": 800,
+  "y": 150,
+  "width": 50,
+  "height": 50,
+  "name": "fightJoy_13"
+}
+{
+  "x": 800,
+  "y": 100,
+  "width": 50,
+  "height": 50,
+  "name": "fightJoy_14"
+}
+{
+  "x": 800,
+  "y": 50,
+  "width": 50,
+  "height": 50,
+  "name": "fightJoy_15"
+}
+{
+  "x": 800,
+  "y": 0,
+  "width": 50,
+  "height": 50,
+  "name": "fightJoy_16"
+}
+{
+  "x": 750,
+  "y": 450,
+  "width": 50,
+  "height": 50,
+  "name": "fightJoy_17"
+}
+{
+  "x": 750,
+  "y": 400,
+  "width": 50,
+  "height": 50,
+  "name": "fightJoy_18"
+}
+{
+  "x": 750,
+  "y": 350,
+  "width": 50,
+  "height": 50,
+  "name": "fightJoy_19"
+}
+{
+  "x": 750,
+  "y": 300,
+  "width": 50,
+  "height": 50,
+  "name": "fightJoy_20"
+}
+{
+  "x": 750,
+  "y": 250,
+  "width": 50,
+  "height": 50,
+  "name": "fightJoy_21"
+}
+{
+  "x": 750,
+  "y": 200,
+  "width": 50,
+  "height": 50,
+  "name": "fightJoy_22"
+}
+{
+  "x": 750,
+  "y": 150,
+  "width": 50,
+  "height": 50,
+  "name": "fightJoy_23"
+}
+{
+  "x": 750,
+  "y": 100,
+  "width": 50,
+  "height": 50,
+  "name": "fightJoy_24"
+}
+{
+  "x": 750,
+  "y": 50,
+  "width": 50,
+  "height": 50,
+  "name": "fightJoy_25"
+}
+{
+  "x": 950,
+  "y": 0,
+  "width": 50,
+  "height": 50,
+  "name": "fightJoy_26"
+}
+{
+  "x": 700,
+  "y": 450,
+  "width": 50,
+  "height": 50,
+  "name": "fightJoy_27"
+}
+{
+  "x": 700,
+  "y": 400,
+  "width": 50,
+  "height": 50,
+  "name": "fightJoy_28"
+}
+{
+  "x": 700,
+  "y": 350,
+  "width": 50,
+  "height": 50,
+  "name": "fightJoy_29"
+}
+{
+  "x": 700,
+  "y": 300,
+  "width": 50,
+  "height": 50,
+  "name": "fightJoy_30"
+}
+{
+  "x": 700,
+  "y": 250,
+  "width": 50,
+  "height": 50,
+  "name": "fightJoy_31"
+}
+{
+  "x": 700,
+  "y": 200,
+  "width": 50,
+  "height": 50,
+  "name": "figurine"
+}
+{
+  "x": 700,
+  "y": 150,
+  "width": 50,
+  "height": 50,
+  "name": "fistPlus"
+}
+{
+  "x": 700,
+  "y": 100,
+  "width": 50,
+  "height": 50,
+  "name": "flag"
+}
+{
+  "x": 700,
+  "y": 50,
+  "width": 50,
+  "height": 50,
+  "name": "joystick"
+}
+{
+  "x": 700,
+  "y": 0,
+  "width": 50,
+  "height": 50,
+  "name": "joystickL_side"
+}
+{
+  "x": 650,
+  "y": 450,
+  "width": 50,
+  "height": 50,
+  "name": "joystickL_top"
+}
+{
+  "x": 650,
+  "y": 400,
+  "width": 50,
+  "height": 50,
+  "name": "joystickLeft"
+}
+{
+  "x": 650,
+  "y": 350,
+  "width": 50,
+  "height": 50,
+  "name": "joystickR_side"
+}
+{
+  "x": 650,
+  "y": 300,
+  "width": 50,
+  "height": 50,
+  "name": "joystickR_top"
+}
+{
+  "x": 650,
+  "y": 250,
+  "width": 50,
+  "height": 50,
+  "name": "joystickRight"
+}
+{
+  "x": 650,
+  "y": 200,
+  "width": 50,
+  "height": 50,
+  "name": "key"
+}
+{
+  "x": 650,
+  "y": 150,
+  "width": 50,
+  "height": 50,
+  "name": "keyLarge"
+}
+{
+  "x": 650,
+  "y": 100,
+  "width": 50,
+  "height": 50,
+  "name": "keyLarge_3d"
+}
+{
+  "x": 650,
+  "y": 50,
+  "width": 50,
+  "height": 50,
+  "name": "keySmall"
+}
+{
+  "x": 650,
+  "y": 0,
+  "width": 50,
+  "height": 50,
+  "name": "keySmall_3d"
+}
+{
+  "x": 600,
+  "y": 450,
+  "width": 50,
+  "height": 50,
+  "name": "mouse"
+}
+{
+  "x": 600,
+  "y": 400,
+  "width": 50,
+  "height": 50,
+  "name": "mouseLeft"
+}
+{
+  "x": 600,
+  "y": 350,
+  "width": 50,
+  "height": 50,
+  "name": "mouseMiddle"
+}
+{
+  "x": 600,
+  "y": 300,
+  "width": 50,
+  "height": 50,
+  "name": "mouseRight"
+}
+{
+  "x": 600,
+  "y": 250,
+  "width": 50,
+  "height": 50,
+  "name": "pointer"
+}
+{
+  "x": 600,
+  "y": 200,
+  "width": 50,
+  "height": 50,
+  "name": "toolBrush"
+}
+{
+  "x": 600,
+  "y": 150,
+  "width": 50,
+  "height": 50,
+  "name": "toolEraser"
+}
+{
+  "x": 600,
+  "y": 100,
+  "width": 50,
+  "height": 50,
+  "name": "toolFill"
+}
+{
+  "x": 600,
+  "y": 50,
+  "width": 50,
+  "height": 50,
+  "name": "toolPencil"
+}
+{
+  "x": 600,
+  "y": 0,
+  "width": 50,
+  "height": 50,
+  "name": "upload"
+}
+{
+  "x": 550,
+  "y": 450,
+  "width": 50,
+  "height": 50,
+  "name": "userRobot"
+}
+{
+  "x": 900,
+  "y": 250,
+  "width": 50,
+  "height": 50,
+  "name": "DPAD"
+}
+{
+  "x": 900,
+  "y": 200,
+  "width": 50,
+  "height": 50,
+  "name": "DPAD_all"
+}
+{
+  "x": 900,
+  "y": 150,
+  "width": 50,
+  "height": 50,
+  "name": "DPAD_down"
+}
+{
+  "x": 900,
+  "y": 100,
+  "width": 50,
+  "height": 50,
+  "name": "DPAD_left"
+}
+{
+  "x": 900,
+  "y": 50,
+  "width": 50,
+  "height": 50,
+  "name": "DPAD_right"
+}
+{
+  "x": 900,
+  "y": 0,
+  "width": 50,
+  "height": 50,
+  "name": "DPAD_up"
+}
+{
+  "x": 550,
+  "y": 400,
+  "width": 50,
+  "height": 50,
+  "name": "car"
+}
+{
+  "x": 550,
+  "y": 350,
+  "width": 50,
+  "height": 50,
+  "name": "cloud"
+}
+{
+  "x": 550,
+  "y": 300,
+  "width": 50,
+  "height": 50,
+  "name": "cloudUpload"
+}
+{
+  "x": 550,
+  "y": 250,
+  "width": 50,
+  "height": 50,
+  "name": "coin"
+}
+{
+  "x": 550,
+  "y": 200,
+  "width": 50,
+  "height": 50,
+  "name": "controllerTilt"
+}
+{
+  "x": 550,
+  "y": 150,
+  "width": 50,
+  "height": 50,
+  "name": "controllerTilt_left"
+}
+{
+  "x": 550,
+  "y": 100,
+  "width": 50,
+  "height": 50,
+  "name": "controllerTilt_right"
+}
+{
+  "x": 550,
+  "y": 50,
+  "width": 50,
+  "height": 50,
+  "name": "cpu"
+}
+{
+  "x": 550,
+  "y": 0,
+  "width": 50,
+  "height": 50,
+  "name": "cursor"
+}
+{
+  "x": 750,
+  "y": 0,
+  "width": 50,
+  "height": 50,
+  "name": "deviceTilt"
+}
+{
+  "x": 900,
+  "y": 450,
+  "width": 50,
+  "height": 50,
+  "name": "deviceTilt_left"
+}
+{
+  "x": 900,
+  "y": 400,
+  "width": 50,
+  "height": 50,
+  "name": "deviceTilt_right"
+}
+{
+  "x": 900,
+  "y": 350,
+  "width": 50,
+  "height": 50,
+  "name": "diamond"
+}
+{
+  "x": 900,
+  "y": 300,
+  "width": 50,
+  "height": 50,
+  "name": "download"
+}
+{
+  "x": 850,
+  "y": 450,
+  "width": 50,
+  "height": 50,
+  "name": "fightFist"
+}
+{
+  "x": 850,
+  "y": 400,
+  "width": 50,
+  "height": 50,
+  "name": "fightFist_circle"
+}
+{
+  "x": 850,
+  "y": 350,
+  "width": 50,
+  "height": 50,
+  "name": "fightJ"
+}
+{
+  "x": 850,
+  "y": 300,
+  "width": 50,
+  "height": 50,
+  "name": "fightJoy_00"
+}
+{
+  "x": 850,
+  "y": 250,
+  "width": 50,
+  "height": 50,
+  "name": "fightJoy_01"
+}
+{
+  "x": 850,
+  "y": 200,
+  "width": 50,
+  "height": 50,
+  "name": "fightJoy_02"
+}
+{
+  "x": 850,
+  "y": 150,
+  "width": 50,
+  "height": 50,
+  "name": "fightJoy_03"
+}
+{
+  "x": 850,
+  "y": 100,
+  "width": 50,
+  "height": 50,
+  "name": "fightJoy_04"
+}
+{
+  "x": 850,
+  "y": 50,
+  "width": 50,
+  "height": 50,
+  "name": "fightJoy_05"
+}
+{
+  "x": 850,
+  "y": 0,
+  "width": 50,
+  "height": 50,
+  "name": "fightJoy_06"
+}
+{
+  "x": 800,
+  "y": 450,
+  "width": 50,
+  "height": 50,
+  "name": "fightJoy_07"
+}
+{
+  "x": 800,
+  "y": 400,
+  "width": 50,
+  "height": 50,
+  "name": "fightJoy_08"
+}
+{
+  "x": 800,
+  "y": 350,
+  "width": 50,
+  "height": 50,
+  "name": "fightJoy_09"
+}
+{
+  "x": 800,
+  "y": 300,
+  "width": 50,
+  "height": 50,
+  "name": "fightJoy_10"
+}
+{
+  "x": 800,
+  "y": 250,
+  "width": 50,
+  "height": 50,
+  "name": "fightJoy_11"
+}
+{
+  "x": 800,
+  "y": 200,
+  "width": 50,
+  "height": 50,
+  "name": "fightJoy_12"
+}
+{
+  "x": 800,
+  "y": 150,
+  "width": 50,
+  "height": 50,
+  "name": "fightJoy_13"
+}
+{
+  "x": 800,
+  "y": 100,
+  "width": 50,
+  "height": 50,
+  "name": "fightJoy_14"
+}
+{
+  "x": 800,
+  "y": 50,
+  "width": 50,
+  "height": 50,
+  "name": "fightJoy_15"
+}
+{
+  "x": 800,
+  "y": 0,
+  "width": 50,
+  "height": 50,
+  "name": "fightJoy_16"
+}
+{
+  "x": 750,
+  "y": 450,
+  "width": 50,
+  "height": 50,
+  "name": "fightJoy_17"
+}
+{
+  "x": 750,
+  "y": 400,
+  "width": 50,
+  "height": 50,
+  "name": "fightJoy_18"
+}
+{
+  "x": 750,
+  "y": 350,
+  "width": 50,
+  "height": 50,
+  "name": "fightJoy_19"
+}
+{
+  "x": 750,
+  "y": 300,
+  "width": 50,
+  "height": 50,
+  "name": "fightJoy_20"
+}
+{
+  "x": 750,
+  "y": 250,
+  "width": 50,
+  "height": 50,
+  "name": "fightJoy_21"
+}
+{
+  "x": 750,
+  "y": 200,
+  "width": 50,
+  "height": 50,
+  "name": "fightJoy_22"
+}
+{
+  "x": 750,
+  "y": 150,
+  "width": 50,
+  "height": 50,
+  "name": "fightJoy_23"
+}
+{
+  "x": 750,
+  "y": 100,
+  "width": 50,
+  "height": 50,
+  "name": "fightJoy_24"
+}
+{
+  "x": 750,
+  "y": 50,
+  "width": 50,
+  "height": 50,
+  "name": "fightJoy_25"
+}
+{
+  "x": 950,
+  "y": 0,
+  "width": 50,
+  "height": 50,
+  "name": "fightJoy_26"
+}
+{
+  "x": 700,
+  "y": 450,
+  "width": 50,
+  "height": 50,
+  "name": "fightJoy_27"
+}
+{
+  "x": 700,
+  "y": 400,
+  "width": 50,
+  "height": 50,
+  "name": "fightJoy_28"
+}
+{
+  "x": 700,
+  "y": 350,
+  "width": 50,
+  "height": 50,
+  "name": "fightJoy_29"
+}
+{
+  "x": 700,
+  "y": 300,
+  "width": 50,
+  "height": 50,
+  "name": "fightJoy_30"
+}
+{
+  "x": 700,
+  "y": 250,
+  "width": 50,
+  "height": 50,
+  "name": "fightJoy_31"
+}
+{
+  "x": 700,
+  "y": 200,
+  "width": 50,
+  "height": 50,
+  "name": "figurine"
+}
+{
+  "x": 700,
+  "y": 150,
+  "width": 50,
+  "height": 50,
+  "name": "fistPlus"
+}
+{
+  "x": 700,
+  "y": 100,
+  "width": 50,
+  "height": 50,
+  "name": "flag"
+}
+{
+  "x": 700,
+  "y": 50,
+  "width": 50,
+  "height": 50,
+  "name": "joystick"
+}
+{
+  "x": 700,
+  "y": 0,
+  "width": 50,
+  "height": 50,
+  "name": "joystickL_side"
+}
+{
+  "x": 650,
+  "y": 450,
+  "width": 50,
+  "height": 50,
+  "name": "joystickL_top"
+}
+{
+  "x": 650,
+  "y": 400,
+  "width": 50,
+  "height": 50,
+  "name": "joystickLeft"
+}
+{
+  "x": 650,
+  "y": 350,
+  "width": 50,
+  "height": 50,
+  "name": "joystickR_side"
+}
+{
+  "x": 650,
+  "y": 300,
+  "width": 50,
+  "height": 50,
+  "name": "joystickR_top"
+}
+{
+  "x": 650,
+  "y": 250,
+  "width": 50,
+  "height": 50,
+  "name": "joystickRight"
+}
+{
+  "x": 650,
+  "y": 200,
+  "width": 50,
+  "height": 50,
+  "name": "key"
+}
+{
+  "x": 650,
+  "y": 150,
+  "width": 50,
+  "height": 50,
+  "name": "keyLarge"
+}
+{
+  "x": 650,
+  "y": 100,
+  "width": 50,
+  "height": 50,
+  "name": "keyLarge_3d"
+}
+{
+  "x": 650,
+  "y": 50,
+  "width": 50,
+  "height": 50,
+  "name": "keySmall"
+}
+{
+  "x": 650,
+  "y": 0,
+  "width": 50,
+  "height": 50,
+  "name": "keySmall_3d"
+}
+{
+  "x": 600,
+  "y": 450,
+  "width": 50,
+  "height": 50,
+  "name": "mouse"
+}
+{
+  "x": 600,
+  "y": 400,
+  "width": 50,
+  "height": 50,
+  "name": "mouseLeft"
+}
+{
+  "x": 600,
+  "y": 350,
+  "width": 50,
+  "height": 50,
+  "name": "mouseMiddle"
+}
+{
+  "x": 600,
+  "y": 300,
+  "width": 50,
+  "height": 50,
+  "name": "mouseRight"
+}
+{
+  "x": 600,
+  "y": 250,
+  "width": 50,
+  "height": 50,
+  "name": "pointer"
+}
+{
+  "x": 600,
+  "y": 200,
+  "width": 50,
+  "height": 50,
+  "name": "toolBrush"
+}
+{
+  "x": 600,
+  "y": 150,
+  "width": 50,
+  "height": 50,
+  "name": "toolEraser"
+}
+{
+  "x": 600,
+  "y": 100,
+  "width": 50,
+  "height": 50,
+  "name": "toolFill"
+}
+{
+  "x": 600,
+  "y": 50,
+  "width": 50,
+  "height": 50,
+  "name": "toolPencil"
+}
+{
+  "x": 600,
+  "y": 0,
+  "width": 50,
+  "height": 50,
+  "name": "upload"
+}
+{
+  "x": 550,
+  "y": 450,
+  "width": 50,
+  "height": 50,
+  "name": "userRobot"
+}

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 135.46666 135.46666"
+   version="1.1"
+   id="svg2208"
+   inkscape:version="1.1.2 (b8e25be8, 2022-02-05)"
+   sodipodi:docname="ui_atlas.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview2210"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="false"
+     inkscape:document-units="px"
+     showgrid="true"
+     units="px"
+     inkscape:zoom="2.2128788"
+     inkscape:cx="113.65286"
+     inkscape:cy="100.99966"
+     inkscape:window-width="1440"
+     inkscape:window-height="847"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
+     guidetolerance="10000"
+     inkscape:snap-page="false"
+     inkscape:snap-global="false">
+    <sodipodi:guide
+       position="23.283331,135.46666"
+       orientation="0,512"
+       id="guide5524" />
+    <sodipodi:guide
+       position="135.46666,135.46666"
+       orientation="512,0"
+       id="guide5526" />
+    <sodipodi:guide
+       position="135.46666,0"
+       orientation="0,-512"
+       id="guide5528" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="-512,0"
+       id="guide5530" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid5532"
+       spacingx="0.26458332"
+       spacingy="0.26458332"
+       dotted="true"
+       empspacing="8" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2205">
+    <linearGradient
+       inkscape:collect="always"
+       id="border-gradient">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5566" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop5568" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3349"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop3347" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#border-gradient"
+       id="linearGradient5572"
+       x1="-0.39687499"
+       y1="12.434782"
+       x2="44.994703"
+       y2="12.434782"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.3427201,0,0,2.3018059,0.26935137,-1.1807508)" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:white;fill-rule:evenodd;stroke:url(#linearGradient5572);stroke-width:0.820692;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="box"
+       width="16.112642"
+       height="16.11264"
+       x="0.41034561"
+       y="0.41034561"
+       inkscape:label="#box">
+      <desc
+         id="desc3345">box</desc>
+      <title
+         id="title3343">Box</title>
+    </rect>
+  </g>
+</svg>

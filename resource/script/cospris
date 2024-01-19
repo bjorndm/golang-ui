@@ -1,0 +1,6 @@
+#!/bin/sh
+# Cospris conceverts sprite sheets from XML to JSON.
+
+xml2json ^$1 | jq | sed -e "s/-//g" | \
+jq '{sprites: [.sprites[]|{x: (.x|(tonumber)+550), y:(.y|(tonumber)), width:(.width|(tonumber)), height:(.height|tonumber), name: (.name|split(".")|.[0]) }]}'
+
